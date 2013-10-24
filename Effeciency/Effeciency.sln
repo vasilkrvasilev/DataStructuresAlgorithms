@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. StudentBook", "01. StudentBook\01. StudentBook.csproj", "{FD80CE10-F54D-4B77-A00F-693FAFFB810D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. CompanyList", "02. CompanyList\02. CompanyList.csproj", "{FFF83656-9336-4283-BF58-508C8676629E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. BiDictionary", "03. BiDictionary\03. BiDictionary.csproj", "{81ECF666-0AD7-434C-8255-1620016662A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD80CE10-F54D-4B77-A00F-693FAFFB810D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD80CE10-F54D-4B77-A00F-693FAFFB810D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD80CE10-F54D-4B77-A00F-693FAFFB810D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD80CE10-F54D-4B77-A00F-693FAFFB810D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF83656-9336-4283-BF58-508C8676629E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF83656-9336-4283-BF58-508C8676629E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF83656-9336-4283-BF58-508C8676629E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF83656-9336-4283-BF58-508C8676629E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81ECF666-0AD7-434C-8255-1620016662A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81ECF666-0AD7-434C-8255-1620016662A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81ECF666-0AD7-434C-8255-1620016662A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81ECF666-0AD7-434C-8255-1620016662A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
